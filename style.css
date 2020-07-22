@@ -1,0 +1,8 @@
+.mobileBox{
+    display: flex;
+    justify-content: space-around;
+}
+.buttonBox{
+    display: flex;
+    justify-content: space-around;
+}
